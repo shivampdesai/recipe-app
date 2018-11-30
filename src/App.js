@@ -15,7 +15,7 @@ class App extends Component {
     var newIngredient = document.getElementById('ing').value;
     console.log(newIngredient);
 
-    var api_key = '4a4476650d4e1b3923fbd1ae5cbd3ec6';
+    var api_key = 'YOUR-API-KEY-HERE';
 
     var base_url = 'https://www.food2fork.com/api/search?key=';
 
